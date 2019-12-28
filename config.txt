@@ -1,0 +1,2 @@
+PATH_TO_NEWS = []
+POSTGRES_CONNECT = []

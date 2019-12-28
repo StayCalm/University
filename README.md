@@ -1,4 +1,7 @@
-���������� ������� ����� pythonic-news-master � ��������� ���� ��� ��������� �����
+Необходимо создать папку pythonic-news-master и полоожить туда все скаченные файлы
+Также необходимо разархивировать файл с SQL lite
+В файл config.txt нужно прописать пути к файлам и к бд
+
 
 ## Setup for local development
 
@@ -27,7 +30,7 @@ python manage.py migrate
 python manage.py runserver
 
 pip install py-postgresql
-pip install py-postgresql
+
 
 Now you can access the website at ```127.0.0.1:8000```.
 

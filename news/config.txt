@@ -1,0 +1,2 @@
+PATH_TO_NEWS = [/Users/amalakhova/Documents/news_site/parser/events/event/ev/ev2/]
+POSTGRES_CONNECT = [pq://postgres:1201512015@localhost:5432/news]
